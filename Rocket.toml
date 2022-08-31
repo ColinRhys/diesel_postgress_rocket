@@ -1,0 +1,5 @@
+[default]
+name = "colin"
+
+[default.databases.my_db]
+url = "postgres://postgres:example@localhost:5555/rocket_postgres"
